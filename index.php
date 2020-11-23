@@ -18,6 +18,15 @@
  		print_r($variavel1);
  	}
 
+ 	if(empty($variavel1['endereco'])){
+ 		echo'</br>';
+ 		echo 'O índice endereço está vazio';
+ 	}else{
+ 		echo'</br>';
+ 		echo'O valor do indice endereço é: ';
+ 		echo $variavel1['endereco'];
+ 	}
+
  $variavel2 = "Romarinho"	;
  	//teste se esta vázia
  	if(empty($variavel2)){
