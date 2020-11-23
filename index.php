@@ -20,7 +20,7 @@
 
  	if(empty($variavel1['endereco'])){
  		echo'</br>';
- 		echo 'O índice endereço está vazio';
+ 		echo 'O índice endereco está vazio';
  	}else{
  		echo'</br>';
  		echo'O valor do indice endereço é: ';
