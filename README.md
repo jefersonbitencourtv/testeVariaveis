@@ -1,2 +1,2 @@
 # testeVariaveis
-Questionário teste de criação e validação de variáveis.
+O código cria váriveis e faz o teste de validação das váriaveis.
